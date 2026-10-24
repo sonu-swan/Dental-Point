@@ -16,16 +16,18 @@
 ---
 
 ## 📸 Preview
-
-<table>
+<table align="center">
   <tr>
-    <td><img src="docs/preview/hero.png" alt="Landing page hero section" /></td>
-    <td><img src="docs/preview/how-it-works.png" alt="How it works — three step process" /></td>
+    <td><img src="docs/preview/hero.png" alt="Landing page hero section" width="300" /></td>
+    <td><img src="docs/preview/how-it-works.png" alt="How it works — three step process" width="300" /></td>
+    <td><img src="docs/preview/faq.png" alt="Common dental questions the AI answers" width="300" /></td>
   </tr>
   <tr>
-    <td><img src="docs/preview/faq.png" alt="Common dental questions the AI answers" /></td>
-    <td><img src="docs/preview/pricing.png" alt="Pricing plans" /></td>
-    <td><img src="docs/preview/cta-footer.png" alt="footer"/></td>
+    <td colspan="3" align="center">
+      <img src="docs/preview/pricing.png" alt="Pricing plans" width="300" />
+      &nbsp;&nbsp;
+      <img src="docs/preview/cta-footer.png" alt="Footer" width="300" />
+    </td>
   </tr>
 </table>
 
